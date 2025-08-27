@@ -1,6 +1,7 @@
 # echocobalt 👾
 
 
+```txt
 ######     #    #######  #####     #    #     # ####### 
 #     #   # #      #    #     #   # #   #     # #       
 #     #  #   #     #    #        #   #  #     # #       
@@ -24,7 +25,7 @@
       # #     # #        #     #    #     # #     # #       
 #     # #     # #        #     #    #     # #     # #       
  #####  ####### ####### ###    #     #####  ######  ####### 
-
+```
 
 
 helloWorld... I'm **Ray Cullen** (~16.7)... a fellow INFP (I've said that a lot now)---who overthinks a lot... 
