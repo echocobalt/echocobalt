@@ -71,7 +71,7 @@ let Jason do the job... I mean JSON
       "darkMode",
       "keyboardShortcuts"
    ],
-   "stuff: {
+   "stuff": {
       "os": "EndeavourOS",
       "editor": ["Obsidian", "neovim"],
       "shell": "zsh",
